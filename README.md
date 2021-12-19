@@ -163,7 +163,6 @@ two models use the Loughran and McDonald 10X file summaries. Model 1 and 3 predi
 the development of the SPX while model 2 and 4 forecast the VIX development.
 
 ## Data Sources
-VIX historical data: http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data <br>
 AAII sentiment and SPX weekly price: https://www.quandl.com/data/AAII/AAII_SENTIMENT <br>
-File Summaries: https://drive.google.com/file/d/12YQ3bczd3-G94eSpqawbA1hwF0Jzs_jB/view?usp=sharing
-
+File Summaries: https://drive.google.com/file/d/12YQ3bczd3-G94eSpqawbA1hwF0Jzs_jB/view?usp=sharing <br>
+VIX historical data: http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data
