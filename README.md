@@ -151,7 +151,7 @@ Language (XML) encoding.
 18. N_Tables – number of tables in the filing.
 19. N_Exhibits – number of exhibits in the filing.
 
-## Methodlogy
+## Methodology
 In total, four models are developed:
 1. AAII_LSTM.ipynb
 2. AAII_VIX_LSTM.ipynb
